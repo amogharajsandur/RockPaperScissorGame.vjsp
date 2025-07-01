@@ -1,0 +1,6 @@
+Rock, Paper & Scissor Game
+
+Color Pallete:
+#2b2d42
+#8d99ae
+#edf2f4
